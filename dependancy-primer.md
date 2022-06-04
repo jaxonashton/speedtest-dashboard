@@ -47,4 +47,4 @@ Update the package list again and install InfluxDB: `sudo apt update && sudo apt
 
 ## Install the dashboard
 
-Once you've completed these steps, you can return to the [installation instructions section](readme.md#Installation) and follow the installation steps for the dashboard itself.
+Once you've completed these steps, you can return to the [installation instructions section](https://github.com/Falc0n2k/speedtest-dashboard#Installation) and follow the installation steps for the dashboard itself.
