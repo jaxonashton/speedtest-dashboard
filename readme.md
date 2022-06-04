@@ -22,9 +22,6 @@
 [![Stargazers][stars-shield]](https://github.com/Falc0n2k/speedtest-dashboard/graphs/stars)
 [![Issues][issues-shield]](https://github.com/Falc0n2k/speedtest-dashboard/issues)
 [![MIT License][license-shield]](https://github.com/Falc0n2k/speedtest-dashboard/iicense)
-[![LinkedIn][linkedin-shield]](linkedin.com/in/classicyuppie)
-
-
 
 <!-- PROJECT LOGO -->
 
@@ -41,39 +38,12 @@
   <p align="center">A lightweight Grafana dashboard that reports results from Ookla's speedtest-cli.</p>
 </div>
 
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][dashboard.png]](https://github.com/Falc0n2k/speedtest-dashboard/blob/main/images/dashboard.png)
+<div style="width:50% ; height:50%">
+![Dashboard screenshot](https://github.com/Falc0n2k/speedtest-dashboard/blob/main/images/dashboard.png)
+</div>
 
 ### Built With
 
@@ -88,7 +58,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-For the best experience, please make sure you have the speedtest-cli script working, and InfluxDB and Grafana installed. This dashboard will do nothing until you have basic functionality and data storage in place first. If you need detailed instructions on how to do that, you can follow the instructions in the [Dependancy Primer](dependancy-primer.md)
+For the best experience, please make sure you have the speedtest-cli script working, and InfluxDB and Grafana installed. This dashboard will do nothing until you have basic functionality and data storage in place first. If you need detailed instructions on how to do that, you can follow the instructions in the [Dependancy Primer](dependancy-primer.md).
 
 ### Installation
 
