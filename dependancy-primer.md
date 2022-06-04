@@ -32,7 +32,7 @@
 
 2. To determine the top 10 closest servers to you, simply invoke `speedtest -L` and take note of the ID you want to use. In the Python script, replace the comment with the server ID. Please note that you can only run one server in the script and not between a selection of servers at this time.
 
-<img src="/images/speedtest-L.png" width="50%" height="50%">
+    <img src="/images/speedtest-L.png" width="50%" height="50%">
 
 ## Install InfluxDB and configure it
 
