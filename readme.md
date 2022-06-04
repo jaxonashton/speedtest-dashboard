@@ -16,6 +16,9 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/falc0n2k/speedtest-dashboard?style=for-the-badge">
 </div>
 
+<br/>
+<br/>
+
 <h1 align="center">Speed Monitor Dashboard</h1>
 <p align="center">A lightweight Grafana dashboard that reports results from Ookla's speedtest-cli.</p>
 </div>
