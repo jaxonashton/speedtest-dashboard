@@ -124,5 +124,5 @@ Distributed under the MIT License. See [LICENSE.txt](/LICENSE.txt) for more info
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [PiUpMyLife](https://piupmylife.com/)
+* [PiMyLifeUp](https://pimylifeup.com/)
 * [@djshadowxm82](https://github.com/djshadowxm82), for inspiring me to learn Python.
