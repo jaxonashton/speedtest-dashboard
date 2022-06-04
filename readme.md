@@ -7,11 +7,11 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]](https://github.com/Falc0n2k/speedtest-dashboard/graphs/contributors)
-[![Forks][forks-shield]](https://github.com/Falc0n2k/speedtest-dashboard/network/forks)
-[![Stargazers][stars-shield]](https://github.com/Falc0n2k/speedtest-dashboard/stargazers)
-[![Issues][issues-shield]](https://github.com/Falc0n2k/speedtest-dashboard/issues)
-[![MIT License][license-shield]](https://github.com/Falc0n2k/speedtest-dashboard/blob/master/LICENSE.txt)
+![contributors-shield](https://github.com/Falc0n2k/speedtest-dashboard/graphs/contributors)
+![forks-shield](https://github.com/Falc0n2k/speedtest-dashboard/network/forks)
+![stars-shield](https://github.com/Falc0n2k/speedtest-dashboard/stargazers)
+![issues-shield](https://github.com/Falc0n2k/speedtest-dashboard/issues)
+![license-shield](https://github.com/Falc0n2k/speedtest-dashboard/blob/master/LICENSE.txt)
 
 <h1 align="center">Speed Monitor Dashboard</h1>
 <p align="center">A lightweight Grafana dashboard that reports results from Ookla's speedtest-cli.</p>
@@ -81,16 +81,11 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- ACKNOWLEDGMENTS -->
@@ -98,23 +93,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 * [PiUpMyLife](https://piupmylife.com/)
 * [@djshadowxm82](https://github.com/djshadowxm82), for inspiring me to learn Python.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
