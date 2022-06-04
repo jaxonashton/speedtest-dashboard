@@ -8,15 +8,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-![contributors-shield](https://github.com/Falc0n2k/speedtest-dashboard/graphs/contributors)
-
-![forks-shield](https://github.com/Falc0n2k/speedtest-dashboard/network/forks)
-
-![stars-shield](https://github.com/Falc0n2k/speedtest-dashboard/stargazers)
-
-![GitHub issues](https://img.shields.io/github/issues-raw/falc0n2k/speedtest-dashboard)
-
-![license-shield](https://github.com/Falc0n2k/speedtest-dashboard/blob/master/LICENSE.txt)
+![GitHub contributors](https://img.shields.io/github/contributors/falc0n2k/speedtest-dashboard?style=for-the-badge&logo=appveyor)
+![GitHub forks](https://img.shields.io/github/forks/falc0n2k/speedtest-dashboard?style=for-the-badge&logo=appveyor)
+![GitHub Repo stars](https://img.shields.io/github/stars/falc0n2k/speedtest-dashboard?style=for-the-badge&logo=appveyor)
+![GitHub issues](https://img.shields.io/github/issues-raw/falc0n2k/speedtest-dashboard?style=for-the-badge&logo=appveyor)
+![GitHub](https://img.shields.io/github/license/falc0n2k/speedtest-dashboard?style=for-the-badge&logo=appveyor)
 
 <h1 align="center">Speed Monitor Dashboard</h1>
 <p align="center">A lightweight Grafana dashboard that reports results from Ookla's speedtest-cli.</p>
