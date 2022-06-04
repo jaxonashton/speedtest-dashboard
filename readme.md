@@ -68,7 +68,7 @@ In addition to the above performance indicators, data points displayed from the 
 ### Prerequisites
 
 For the best experience, please make sure you have the speedtest-cli script working, and InfluxDB and Grafana installed. This dashboard will do nothing until you have basic functionality and data storage in place first. If you need detailed instructions on how to do that, you can follow
-the [dependancy primer](/wiki/Dependancy-Primer).
+the [dependancy primer](https://github.com/Falc0n2k/speedtest-dashboard/wiki/Dependancy-Primer).
 
 ### Installation
 
