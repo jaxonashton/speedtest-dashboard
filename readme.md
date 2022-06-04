@@ -42,8 +42,10 @@
 ## About The Project
 
 <div style="width:50% ; height:50%">
-![Dashboard screenshot](https://github.com/Falc0n2k/speedtest-dashboard/blob/main/images/dashboard.png)
+![Dashboard screenshot](/speedtest-dashboard/blob/main/images/dashboard.png)
 </div>
+
+<img src="/speedtest-dashboard/blob/main/images/dashboard.png" width="50%" height="50%">
 
 ### Built With
 
