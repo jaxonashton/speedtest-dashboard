@@ -35,6 +35,14 @@
 
 * [JSON](https://www.json.org/)
 
+### Dependancies
+
+* Ookla's [speedtest-cli](https://www.speedtest.net/apps/cli) application
+* [Python 3](https://www.python.org/download/releases/3.0/)
+* [InfluxDB](https://www.influxdata.com)
+* [Grafana](https://grafana.com)
+* Patience
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
