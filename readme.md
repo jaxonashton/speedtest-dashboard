@@ -1,14 +1,4 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -18,24 +8,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]](https://github.com/Falc0n2k/speedtest-dashboard/graphs/contributors)
-[![Forks][forks-shield]](https://github.com/Falc0n2k/speedtest-dashboard/graphs/forks)
-[![Stargazers][stars-shield]](https://github.com/Falc0n2k/speedtest-dashboard/graphs/stars)
+[![Forks][forks-shield]](https://github.com/Falc0n2k/speedtest-dashboard/network/forks)
+[![Stargazers][stars-shield]](https://github.com/Falc0n2k/speedtest-dashboard/stargazers)
 [![Issues][issues-shield]](https://github.com/Falc0n2k/speedtest-dashboard/issues)
-[![MIT License][license-shield]](https://github.com/Falc0n2k/speedtest-dashboard/iicense)
+[![MIT License][license-shield]](https://github.com/Falc0n2k/speedtest-dashboard/blob/master/LICENSE.txt)
 
-<!-- PROJECT LOGO -->
-
-<!--
-<br />
-<div align="center">
-  <a href="https://github.com/Falc0n2k/speedtest-dashboard">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
---> 
-
-<h3 align="center">Speed Monitor Dashboard</h3>
-
-  <p align="center">A lightweight Grafana dashboard that reports results from Ookla's speedtest-cli.</p>
+<h1 align="center">Speed Monitor Dashboard</h1>
+<p align="center">A lightweight Grafana dashboard that reports results from Ookla's speedtest-cli.</p>
 </div>
 
 <!-- ABOUT THE PROJECT -->
