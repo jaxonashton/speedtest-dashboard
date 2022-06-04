@@ -8,11 +8,13 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+<div align="center">
 ![GitHub contributors](https://img.shields.io/github/contributors/falc0n2k/speedtest-dashboard?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/falc0n2k/speedtest-dashboard?style=for-the-badge)
 ![GitHub Repo stars](https://img.shields.io/github/stars/falc0n2k/speedtest-dashboard?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/falc0n2k/speedtest-dashboard?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/falc0n2k/speedtest-dashboard?style=for-the-badge)
+</div>
 
 <h1 align="center">Speed Monitor Dashboard</h1>
 <p align="center">A lightweight Grafana dashboard that reports results from Ookla's speedtest-cli.</p>
