@@ -27,11 +27,14 @@
 
 
 <!-- PROJECT LOGO -->
+
+<!--
 <br />
 <div align="center">
   <a href="https://github.com/Falc0n2k/speedtest-dashboard">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
+--> 
 
 <h3 align="center">Speed Monitor Dashboard</h3>
 
