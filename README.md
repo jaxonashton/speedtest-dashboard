@@ -62,7 +62,7 @@ This dasboard will provide you with detailed analytics in an easily digestable f
 In addition to the above performance indicators, data points displayed from the last run speedtest are:
 
 * ISP - *Verizon, Comcast, etc.*
-* Test Server - *will display the server ID, but can be customized to display the server name*
+* Test Server - *will display the server ID by default, but can be [customized to display the server name](https://github.com/Falc0n2k/speedtest-dashboard/wiki/Displaying-the-server-name)*
 * Result URL - *the url of the speedtest so you can share it with support staff, social media, etc.*
 
 ### Prerequisites
