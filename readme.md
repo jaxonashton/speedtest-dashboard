@@ -47,8 +47,19 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This dasboard will provide you with detailed analytics in an easily digestable format. It includes a snapshot of the results from the speedtest last run as well as historical data for the following metrics:
+
+* Download speed (Mbps)
+* Upload speed (Mbps)
+* Ping (ms)
+* Jitter (ms)
+* Packet loss (%)
+
+In addition to the above performance indicators, data points displayed from the last run speedtest are:
+
+* ISP - *Verizon, Comcast, etc.*
+* Test Server - *will display the server ID, but can be customized to display the server name*
+* Result URL - *the url of the speedtest so you can share it with support staff, social media, etc.*
 
 ### Prerequisites
 
