@@ -16,7 +16,7 @@ As a point of reference, you'll want to use servers that are on the same ISP as 
 
 2. To determine the top 10 closest servers to you, simply invoke `speedtest -L` and take note of the ID you want to use. In the Python script, replace the comment with the server ID. Please note that you can only run one server in the script and not between a selection of servers at this time.
 
-[IMG HERE]
+<img src="/images/speedtest-L.png" width="100%" height="100%">
 
 ## Install InfluxDB and configure it
 
