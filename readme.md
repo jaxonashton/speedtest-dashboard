@@ -41,11 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<div style="width:50% ; height:50%">
-![Dashboard screenshot](/speedtest-dashboard/blob/main/images/dashboard.png)
-</div>
-
-<img src="/images/dashboard.png" width="50%" height="50%">
+<img src="/images/dashboard.png" width="75%" height="75%">
 
 ### Built With
 
