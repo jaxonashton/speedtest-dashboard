@@ -20,6 +20,9 @@
 <p align="center">A lightweight Grafana dashboard that reports results from Ookla's speedtest-cli.</p>
 </div>
 
+<br/>
+<br/>
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
