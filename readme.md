@@ -10,7 +10,7 @@
 ![contributors-shield](https://github.com/Falc0n2k/speedtest-dashboard/graphs/contributors)
 ![forks-shield](https://github.com/Falc0n2k/speedtest-dashboard/network/forks)
 ![stars-shield](https://github.com/Falc0n2k/speedtest-dashboard/stargazers)
-![issues-shield](https://github.com/Falc0n2k/speedtest-dashboard/issues)
+![GitHub issues](https://img.shields.io/github/issues-raw/falc0n2k/speedtest-dashboard)
 ![license-shield](https://github.com/Falc0n2k/speedtest-dashboard/blob/master/LICENSE.txt)
 
 <h1 align="center">Speed Monitor Dashboard</h1>
