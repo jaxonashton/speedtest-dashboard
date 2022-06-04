@@ -7,10 +7,15 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 ![contributors-shield](https://github.com/Falc0n2k/speedtest-dashboard/graphs/contributors)
+
 ![forks-shield](https://github.com/Falc0n2k/speedtest-dashboard/network/forks)
+
 ![stars-shield](https://github.com/Falc0n2k/speedtest-dashboard/stargazers)
+
 ![GitHub issues](https://img.shields.io/github/issues-raw/falc0n2k/speedtest-dashboard)
+
 ![license-shield](https://github.com/Falc0n2k/speedtest-dashboard/blob/master/LICENSE.txt)
 
 <h1 align="center">Speed Monitor Dashboard</h1>
