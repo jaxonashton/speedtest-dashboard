@@ -61,33 +61,33 @@ the [Dependancy Primer](dependancy-primer.md).
 
 2. If this is a fresh install for you - meaning you've set the speedtest-cli script up from scratch along with InfluxDB and Grafana, now is a good time to test the ingest from the scrip to the database, seeing how the dashboard presents that data to you. To do this, you can spam `python3 speedtest.py` a few times on the command line (I recommend at least three or four passes). Once those test results are stored in the database, you can customize the rest of the dashboard to your liking.
 
-3. As the final step, you'll want to set the speedtest script to run at an interval you're comfortable with, automatically. To do this, we'll use `crontab -e`. If this is the first time you're running it, or you have a fresh install of Linux, do yourself a favor us select Nano as your editor. I run my speedtest every 30 minutes, but you may consider running it every hour or less if you're on a metered connection or your ISP has a data limitation. For a sample of the format you'll want to use:
+3. As the final step, you'll want to set the speedtest script to run at an interval you're comfortable with, automatically. To do this, we'll use `crontab -e`. If this is the first time you're running it, or you have a fresh install of Linux, do yourself a favor us select Nano as your editor. I run my speedtest every 30 minutes, but you may consider running it every hour or less if you're on a metered connection or your ISP has a data limitation. 
 
-##### 30-minute interval
-```
-# m h  dom mon dow   command
-*/30 * * * * python3 /home/pi/speedtest.py
-```
+    For a sample of the format you'll want to use:
 
-##### 60-minute interval
-```
-# m h  dom mon dow   command
-*/60 * * * * python3 /home/pi/speedtest.py
-```
+    **30-minute interval**
+    ```
+    # m h  dom mon dow   command
+    */30 * * * * python3 /home/pi/speedtest.py
+    ```
+    **60-minute interval**
+    ```
+    # m h  dom mon dow   command
+    */60 * * * * python3 /home/pi/speedtest.py
+    ```
+    **2-hour interval**
+    ```
+    # m h  dom mon dow   command
+    */120 * * * * python3 /home/pi/speedtest.py
+    ```
 
-##### 2-hour interval
-```
-# m h  dom mon dow   command
-*/120 * * * * python3 /home/pi/speedtest.py
-```
-
-N.B. - customize the directory where you have your Python script sitting. `pwd` and `ls -l` are your friends.
+    N.B. - customize the directory where you have your Python script sitting. `pwd` and `ls -l` are your friends.
 
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 
