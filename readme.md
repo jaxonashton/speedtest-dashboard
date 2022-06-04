@@ -45,7 +45,7 @@
 ![Dashboard screenshot](/speedtest-dashboard/blob/main/images/dashboard.png)
 </div>
 
-<img src="speedtest-dashboard/blob/main/images/dashboard.png" width="50%" height="50%">
+<img src="/images/dashboard.png" width="50%" height="50%">
 
 ### Built With
 
