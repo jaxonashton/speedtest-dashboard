@@ -1,13 +1,4 @@
 <div id="top"></div>
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 <div align="center">
 
 <a href="https://github.com/Falc0n2k/speedtest-dashboard/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/falc0n2k/speedtest-dashboard?style=for-the-badge"></a>
@@ -30,7 +21,7 @@
 <br/>
 <br/>
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 <img src="/images/dashboard.png" width="75%" height="75%">
@@ -48,7 +39,6 @@
 * Patience
 
 
-<!-- GETTING STARTED -->
 ## Getting Started
 
 This dasboard will provide you with detailed analytics in an easily digestable format. It includes a snapshot of the results from the speedtest last run as well as historical data for the following metrics:
@@ -65,10 +55,12 @@ In addition to the above performance indicators, data points displayed from the 
 * Test Server - *will display the server ID by default, but can be [customized to display the server name](https://github.com/Falc0n2k/speedtest-dashboard/wiki/Displaying-the-server-name)*
 * Result URL - *the url of the speedtest so you can share it with support staff, social media, etc.*
 
+
 ### Prerequisites
 
 For the best experience, please make sure you have the speedtest-cli script working, and InfluxDB and Grafana installed. This dashboard will do nothing until you have basic functionality and data storage in place first. If you need detailed instructions on how to do that, you can follow
 the [dependency primer](https://github.com/Falc0n2k/speedtest-dashboard/wiki/dependency-primer).
+
 
 ### Installation
 
@@ -99,7 +91,6 @@ the [dependency primer](https://github.com/Falc0n2k/speedtest-dashboard/wiki/dep
     N.B. - customize the directory where you have your Python script sitting. `pwd` and `ls -l` are your friends.
 
 
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
@@ -115,13 +106,11 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 
-<!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See [LICENSE.txt](/LICENSE.txt) for more information.
 
 
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
 * [PiMyLifeUp](https://pimylifeup.com/)
